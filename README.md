@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @graijo
+- 👋 Hi, I’m @Graijo
 - 👀 I’m interested in learning Automation & Backend Development using Java
-- 🌱 I’m currently learning Git,Github,Spring Automation
+- 🌱 I’m currently learning  Cypress,Java scrip,tGit,Github,Spring Automation ,Gatling ,Junit testing
 - 💞️ I’m looking to collaborate on Automation and development projects
 - 📫 How to reach me via git
 
